@@ -18,5 +18,5 @@ omit =
     server/utils/external_api.py
     server/utils/case_search_serializer.py
     sdfsad
-precision = 2
+precision = 3
 show_missing=True
