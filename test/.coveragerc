@@ -1,0 +1,21 @@
+[report]
+omit =
+    route/*
+    tests/*
+    schema/*
+    static/*
+    templates/*
+    migrate/*
+    migration/*
+    api_doc.py
+    server/utils/SubmitLock.py
+    server/persistence/__init__.py
+    main.py
+    engine/util/workflow_util.py
+    run_custom_metrics.py
+    service_config.py
+    server/metadata/__init__.py
+    server/utils/external_api.py
+    server/utils/case_search_serializer.py
+precision = 2
+show_missing=True
